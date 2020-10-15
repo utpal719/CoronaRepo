@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8843fbd.chunk.css",
+    "main.js": "/static/js/main.66c02d4e.chunk.js",
+    "main.js.map": "/static/js/main.66c02d4e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/css/2.9fa2b2a8.chunk.css": "/static/css/2.9fa2b2a8.chunk.css",
+    "static/js/2.3f61e288.chunk.js": "/static/js/2.3f61e288.chunk.js",
+    "static/js/2.3f61e288.chunk.js.map": "/static/js/2.3f61e288.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8998d184a935ffe301b326ad1ec1a85c.js": "/precache-manifest.8998d184a935ffe301b326ad1ec1a85c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9fa2b2a8.chunk.css.map": "/static/css/2.9fa2b2a8.chunk.css.map",
+    "static/css/main.d8843fbd.chunk.css.map": "/static/css/main.d8843fbd.chunk.css.map",
+    "static/js/2.3f61e288.chunk.js.LICENSE.txt": "/static/js/2.3f61e288.chunk.js.LICENSE.txt",
+    "static/media/001-monitor.svg": "/static/media/001-monitor.53eeda10.svg",
+    "static/media/002-refresh.svg": "/static/media/002-refresh.d9643963.svg",
+    "static/media/003-patient.svg": "/static/media/003-patient.af334a70.svg",
+    "static/media/GCCMCLogo.png": "/static/media/GCCMCLogo.d63ed22f.png",
+    "static/media/aboutusImg.png": "/static/media/aboutusImg.4303fe78.png",
+    "static/media/combinedLogo.png": "/static/media/combinedLogo.cbd19b97.png",
+    "static/media/default-image.png": "/static/media/default-image.94c325dd.png",
+    "static/media/thumb-01.jpg": "/static/media/thumb-01.19c5f664.jpg",
+    "static/media/tick.svg": "/static/media/tick.5362dd4b.svg",
+    "static/media/wipro-logo.png": "/static/media/wipro-logo.6be8ce87.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/css/2.9fa2b2a8.chunk.css",
+    "static/js/2.3f61e288.chunk.js",
+    "static/css/main.d8843fbd.chunk.css",
+    "static/js/main.66c02d4e.chunk.js"
+  ]
+}
